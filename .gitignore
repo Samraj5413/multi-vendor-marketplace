@@ -1,0 +1,15 @@
+# IDEs
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Secrets (Safety net for all subfolders)
+.env
+*.env
+
+# Build junk
+**/target/
+**/node_modules/
